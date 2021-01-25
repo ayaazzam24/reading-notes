@@ -20,6 +20,7 @@ The need for collaboration within a developer team on a single file or set of fi
 > ## ***Loss of Data***
 
 ***Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.***
+
 > ## ***States***
 
 ***Files in Git can reside in three main states:***
