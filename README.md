@@ -1,13 +1,12 @@
-# reading-notes
-**A “fixed mindset”** : assumes that our character, intelligence, and creative ability are static givens which we can’t change in any meaningful way, and success is the affirmation of that inherent intelligence, an assessment of how those givens measure up against an equally fixed standard; striving for success and avoiding failure at all costs become a way of maintaining the sense of being smart or skilled
-But **growth mindset** :  Describe the underlying beliefs people have about learning and intelligence, When people believe they can get smarter, they understand that effort makes them stronger. 
-> " Do what you love, and don’t stop until you get what you love "
+# My introduction
+ My Name is aya azzam i'm 24 years old , graduate public administration (**sub-specializtion finance and banking** ) from yarmouk university , i can describe myself in three words emotional person ,very kind , creator .
 
-> " Work as hard as you can, imagine immensities "
+# Table of Contents :
 
-![image1](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441506303i/114737._UY630_SR1200,630_.jpg)
+| pages   | links                                                        |
+| ------- | ----------------------------------------------------         |
+| Mindset |[mindset](https://ayaazzam24.github.io/reading-notes/)        |
+| Markdown|[markdown](https://ayaazzam24.github.io/reading-notes/read02a)|
+| Git     |[git](https://ayaazzam24.github.io/reading-notes/read02b)     |
 
-# I keep myself in growth mindset :
-- View challenges as opportunities.
-- Replace the word “failing” with the word “learning.”
-- Learn from other people’s mistakes.
+
