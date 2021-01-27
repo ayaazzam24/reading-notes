@@ -7,9 +7,9 @@
 #### 1. access content : 
 **You can use JavaScript to select any element, attribute, or text from an HTML page. For example:**
 - Select the text inside all of the <hl>
-elements on a page
+elements on a page.
 - Select any elements that have a
-c 1 ass attribute with a value of note
+c 1 ass attribute with a value of note .
 - Find out what was entered into a
 text input whose id attribute has a
 value of email.
@@ -17,12 +17,12 @@ value of email.
 #### 2. MODIFY CONTENT 
 **You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:**
 - Add a paragraph of text after the
-first <hl> element
+first <hl> element.
 - Change the value of c 1 ass
 attributes to trigger new CSS rules
-for those elements
+for those elements.
 - Change the size or position of an
-<img> element 
+<img> element .
 
 #### 3. PROGRAM RULES :
 **You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example:**
@@ -36,7 +36,7 @@ ca lculation, and display repayments.
 dimensions of the browser window
 and move an image to the bottom
 of the viewable area (also known as
-the viewport)
+the viewport) .
 
 ## what is a script and how do i create one ?
 > A script is a series of instructions that the computer
@@ -53,7 +53,7 @@ to complete that task (a flowchart can help).
 
 # Expression :
 
- ## An expression evaluates into (results in) a single value. Broadly speaking
+ An expression evaluates into (results in) a single value. Broadly speaking
 there are two types of expressions. 
 ### 1. EXPRESSIONS THAT JUST ASSIGN A
 VALUE TO A VARIABLE .
