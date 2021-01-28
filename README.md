@@ -5,7 +5,7 @@
 
 | pages   | links                                                        |
 | ------- | ----------------------------------------------------         |
-| Mindset |[mindset](https://ayaazzam24.github.io/reading-notes/mindset1)        |
+| Mindset |[mindset](https://ayaazzam24.github.io/reading-notes/mindset1)|
 | Markdown|[markdown](https://ayaazzam24.github.io/reading-notes/read02a)|
 | Git     |[git](https://ayaazzam24.github.io/reading-notes/read02b)     |
 
