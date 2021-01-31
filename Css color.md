@@ -1,6 +1,15 @@
+# what is the Css :
+ ## describes how HTML elements are to be displayed on screen, paper, or in other media.
+
+  
+  ![image](https://www.bitdegree.org/learn/storage/media/images/8c4493d3-110c-4a95-8b70-7626ce2d2f4e.jpg)
+
+
+
+
 
 # Color not only brings your site to life, but also helps
-#### convey the mood and evokes reactions.
+## convey the mood and evokes reactions.
 
 > # There are three ways to specify colors in CSS:
 1. ### RGB values
