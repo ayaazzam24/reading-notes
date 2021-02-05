@@ -17,7 +17,7 @@
 ## Table of contents :
 
 |pages        | linkes                                                   |
-| ----------- | -----------                                              |
+| ----------- |--------------------------------------------------------  |
 | class01     |[01](https://ayaazzam24.github.io/reading-notes/class-01) ||             |                                                          |
 |             |                                                          |
 |             |                                                          |
