@@ -49,7 +49,7 @@ the different elements are
 positioned on the screen .
 
 
- ## HTML : **HyperText Markup Language**  is used to create web pages.
+## HTML : **HyperText Markup Language**  is used to create web pages.
  
 > HTML pages are text documents.
 
