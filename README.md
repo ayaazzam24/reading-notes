@@ -18,20 +18,20 @@
 > # Code 201 Reading Notes
 ## Table of contents :
 
-|pages        | linkes                                                         |
-| ----------- |---------------------------------------------                   |  
-|  1          | [class-01](https://ayaazzam24.github.io/reading-notes/class-01)| 
-|  2          |                                                                |         
-|  3          |                                                                |
-|  4          |                                                                |
-|  5          |                                                                |
-|  6          |                                                                | 
-|  7          |                                                                |
-|  8          |                                                                | 
-|  9          |                                                                |
-|  10         |                                                                |
-|  11         |                                                                |
-|  12         |                                                                |
-|  13         |                                                                |
-|  14         |                                                                |
-|  15         |                                                                |
+|pages        | linkes                                                          |
+| ----------- |---------------------------------------------                    |  
+|  1          | [class-01](https://ayaazzam24.github.io/reading-notes/class-01) | 
+|  2          | [class-02](https://ayaazzam24.github.io/reading-notes/class-02) |         
+|  3          |                                                                 |
+|  4          |                                                                 |
+|  5          |                                                                 |
+|  6          |                                                                 | 
+|  7          |                                                                 |
+|  8          |                                                                 | 
+|  9          |                                                                 |
+|  10         |                                                                 |
+|  11         |                                                                 |
+|  12         |                                                                 |
+|  13         |                                                                 |
+|  14         |                                                                 |
+|  15         |                                                                 |
