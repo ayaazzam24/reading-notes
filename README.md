@@ -5,13 +5,15 @@
 > # Code 102 Reading Notes
 ## Table of Contents :
 
-| pages   | links                                                        |
-| ------- | ----------------------------------------------------         |
-| Mindset |[mindset](https://ayaazzam24.github.io/reading-notes/mindset1)|
-| Markdown|[markdown](https://ayaazzam24.github.io/reading-notes/read02a)|
-| Git     |[git](https://ayaazzam24.github.io/reading-notes/read02b)     |
-
-
+| pages   | links                                                                                  |
+| ------- | ----------------------------------------------------                                   |
+| 1       |[mindset](https://ayaazzam24.github.io/reading-notes/mindset1)                          |
+| 2       |[markdown](https://ayaazzam24.github.io/reading-notes/read02a)                          |
+| 3       |[git](https://ayaazzam24.github.io/reading-notes/read02b)                               |
+| 4       |[Csscolor](https://ayaazzam24.github.io/reading-notes/Css%20color)                      |
+| 5       |[markupextra](https://ayaazzam24.github.io/reading-notes/markupextra)                   |
+| 6       |[operators](https://ayaazzam24.github.io/reading-notes/operators%20and%20logical)       |
+| 7       |[javascript](https://ayaazzam24.github.io/reading-notes/programming%20with%20javascript)|
 
 > # Code 201 Reading Notes
 ## Table of contents :
