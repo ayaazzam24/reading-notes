@@ -34,7 +34,7 @@ be subscript.
 
 ![image](https://www.roseindia.net/tutorialfiles/26927.Sub&Sup_TagPick.gif)
 
-## Content management systems and HTML editors such as Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.
+- Content management systems and HTML editors such as Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.
 
 
 
