@@ -38,7 +38,7 @@ be subscript.
 
 
 
-# They also provide semantic information (e.g. whereemphasis should be placed, the definition of any acronyms used, when given text is a quotation).
+# They also provide semantic information :
 
 ![image](https://image.slidesharecdn.com/lecture2-html-v1-190219103741/95/web-information-systems-lecture-2-html-68-638.jpg?cb=1550572703)
 
