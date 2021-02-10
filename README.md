@@ -21,9 +21,9 @@
 |pages        | linkes                                                          |
 | ----------- |---------------------------------------------                    |  
 |  1          | [class-01](https://ayaazzam24.github.io/reading-notes/class-01) | 
-|  2          | [class-02](https://ayaazzam24.github.io/reading-notes/class-02)  |        
+|  2          | [class-02](https://ayaazzam24.github.io/reading-notes/class-02) |        
 |  3          | [class-03](https://ayaazzam24.github.io/reading-notes/class-03) |   
-|  4          |                                                                 |
+|  4          | [class-04](https://ayaazzam24.github.io/reading-notes/class-05) |    
 |  5          |                                                                 |
 |  6          |                                                                 | 
 |  7          |                                                                 |
