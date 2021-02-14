@@ -25,8 +25,8 @@
 |  3          | [class-03](https://ayaazzam24.github.io/reading-notes/class-03) |   
 |  4          | [class-04](https://ayaazzam24.github.io/reading-notes/class-04) |    
 |  4          | [class-05](https://ayaazzam24.github.io/reading-notes/class-05) |
-|  5          | [class-06](https://ayaazzam24.github.io/reading-notes/class-06) |     
-|  6          |                                                                 | 
+|  5          | [class-06](https://ayaazzam24.github.io/reading-notes/class-06) | 
+|  6          | [class-07](https://ayaazzam24.github.io/reading-notes/class-07) |
 |  7          |                                                                 |
 |  8          |                                                                 | 
 |  9          |                                                                 |
