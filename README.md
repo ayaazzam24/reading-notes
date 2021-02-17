@@ -24,13 +24,12 @@
 |  2          | [class-02](https://ayaazzam24.github.io/reading-notes/class-02) |        
 |  3          | [class-03](https://ayaazzam24.github.io/reading-notes/class-03) |   
 |  4          | [class-04](https://ayaazzam24.github.io/reading-notes/class-04) |    
-|  4          | [class-05](https://ayaazzam24.github.io/reading-notes/class-05) |
-|  5          | [class-06](https://ayaazzam24.github.io/reading-notes/class-06) | 
-|  6          | [class-07](https://ayaazzam24.github.io/reading-notes/class-07) |
-|  7          | [class-08](https://ayaazzam24.github.io/reading-notes/class-08) |
-|  8          | [class-09](https://ayaazzam24.github.io/reading-notes/class-09) | 
-|  9          |                                                                 |
-|  10         |                                                                 |
+|  5          | [class-05](https://ayaazzam24.github.io/reading-notes/class-05) |
+|  6          | [class-06](https://ayaazzam24.github.io/reading-notes/class-06) | 
+|  7          | [class-07](https://ayaazzam24.github.io/reading-notes/class-07) |
+|  8          | [class-08](https://ayaazzam24.github.io/reading-notes/class-08) |
+|  9          | [class-09](https://ayaazzam24.github.io/reading-notes/class-09) | 
+|  10         | [class-10](https://ayaazzam24.github.io/reading-notes/class-10) |
 |  11         |                                                                 |
 |  12         |                                                                 |
 |  13         |                                                                 |
