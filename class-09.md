@@ -15,7 +15,7 @@
 ![image](https://i.stack.imgur.com/AYan2.png)
 
 # Lists, Tables & Forms :
- ## - list-style-type .
+## - list-style-type .
 ## -  list-style image .
 
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/disc.png)
