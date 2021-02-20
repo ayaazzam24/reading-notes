@@ -30,7 +30,7 @@
 |  8          | [class-08](https://ayaazzam24.github.io/reading-notes/class-08) |
 |  9          | [class-09](https://ayaazzam24.github.io/reading-notes/class-09) | 
 |  10         | [class-10](https://ayaazzam24.github.io/reading-notes/class-10) |
-|  11         |                                                                 |
+|  11         | [class-11](https://ayaazzam24.github.io/reading-notes/class-11) |
 |  12         |                                                                 |
 |  13         |                                                                 |
 |  14         |                                                                 |
