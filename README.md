@@ -33,5 +33,6 @@
 |  11         | [class-11](https://ayaazzam24.github.io/reading-notes/class-11) |
 |  12         | [class-12](https://ayaazzam24.github.io/reading-notes/class-12) |
 |  13         | [class-13](https://ayaazzam24.github.io/reading-notes/class-13) |
-|  14         |                                                                 |
-|  15         |                                                                 |
+|  14         | [class-14](https://ayaazzam24.github.io/reading-notes/class-14) |
+|  15         | [class-15](https://ayaazzam24.github.io/reading-notes/class-15) |        
+                                                   
