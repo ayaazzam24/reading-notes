@@ -41,7 +41,7 @@
 
 |pages        | linkes                                                                    |
 |------------ | -------------------------------------------------                         |
-|1            |[responsivewebdesign&float](https://ayaazzam24.github.io/reading-notes/responsivewebdesignfloat)                                                                 |
+|1            |[responsivewebdesign&float](https://ayaazzam24.github.io/reading-notes/responsivewebdesign&float)                                                                                    |
 |2            |                                                                           |
 |3            |                                                                           |
 |4            |                                                                           |
