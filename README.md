@@ -42,7 +42,7 @@
 |pages        | linkes                                                                    |
 |------------ | -------------------------------------------------                         |
 |1            |[responsivewebdesign&float](https://ayaazzam24.github.io/reading-notes/responsivewebdesign&float)                                                                                    |
-|2            |                                                                           |
+|2            |[jquery](https://ayaazzam24.github.io/reading-notes/jquery)                |
 |3            |                                                                           |
 |4            |                                                                           |
 |5            |                                                                           |
