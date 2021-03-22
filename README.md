@@ -39,21 +39,21 @@
 > # code 301 Reading Notes 
 ## Tabel of contents :
 
-|pages        | linkes                                                                    |
-|------------ | -------------------------------------------------                         |
-|1            |[responsivewebdesign&float](https://ayaazzam24.github.io/reading-notes/responsivewebdesign&float)                                                                                    |
-|2            |[jquery](https://ayaazzam24.github.io/reading-notes/jquery)                |
-|3            |[flex](https://ayaazzam24.github.io/reading-notes/mustanche&flexbox)       |
-|4            |                                                                           |
-|5            |                                                                           |
-|6            |                                                                           |
-|7            |                                                                           |
-|8            |                                                                           | 
-|9            |                                                                           |
-|10           |                                                                           |
-|11           |                                                                           | 
-|12           |                                                                           |
-|13           |                                                                           |
-|14           |                                                                           |
-|15           |                                                                           |
+|pages        | linkes                                                                                 |
+|------------ | -------------------------------------------------                                      |
+|1            |[responsivewebdesign&float](https://ayaazzam24.github.io/reading-notes/responsivewebdesign&float)                                                                                                 |
+|2            |[jquery](https://ayaazzam24.github.io/reading-notes/jquery)                             |
+|3            |[mustanche&flexbox](https://ayaazzam24.github.io/reading-notes/mustanche&flexbox)       |
+|4            |                                                                                        |
+|5            |                                                                                        |
+|6            |                                                                                        |
+|7            |                                                                                        |
+|8            |                                                                                        | 
+|9            |                                                                                        |
+|10           |                                                                                        |
+|11           |                                                                                        | 
+|12           |                                                                                        |
+|13           |                                                                                        |
+|14           |                                                                                        |
+|15           |                                                                                        |
                                                    
