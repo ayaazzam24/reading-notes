@@ -1,4 +1,4 @@
-Responsive Layouts with CSS Grid:
+
 # Grids in CSS:
 The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning. A grid layout consists of a parent element, with one or more child elements. An HTML element becomes a grid container when its display property is set to grid or inline-grid.
 
@@ -37,5 +37,4 @@ The CSS Grid Layout Module offers a grid-based layout system, with rows and colu
 
 <img src='https://i.ytimg.com/vi/68O6eOGAGqA/maxresdefault.jpg' width=800 height= 450>
 
-The smaller images (in a grid!) are in the perfect layout to get you started with CSS grid. Grid gives us control over how wide or narrow each of the ‘grid cells’ get. This allows us to maintain a sensible aspect ratio to their height. In this example I’ve used:
-```
+
