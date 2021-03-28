@@ -47,7 +47,7 @@
 |4            |[cssgrid](https://ayaazzam24.github.io/reading-notes/cssgrid)                           |
 |5            |[heroku](https://ayaazzam24.github.io/reading-notes/heroku)                             |
 |6            |[node.js](https://ayaazzam24.github.io/reading-notes/node.js)                           |
-|7            |                                                                                        |
+|7            |[rest](https://ayaazzam24.github.io/reading-notes/rest)                                 |
 |8            |                                                                                        | 
 |9            |                                                                                        |
 |10           |                                                                                        |
