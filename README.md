@@ -48,7 +48,7 @@
 |5            |[heroku](https://ayaazzam24.github.io/reading-notes/heroku)                             |
 |6            |[node.js](https://ayaazzam24.github.io/reading-notes/node.js)                           |
 |7            |[rest](https://ayaazzam24.github.io/reading-notes/rest)                                 |
-|8            |                                                                                        | 
+|8            |[SQL](https://ayaazzam24.github.io/reading-notes/SQL)                                   |
 |9            |                                                                                        |
 |10           |                                                                                        |
 |11           |                                                                                        | 
