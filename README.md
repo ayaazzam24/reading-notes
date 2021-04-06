@@ -50,7 +50,7 @@
 |7            |[rest](https://ayaazzam24.github.io/reading-notes/rest)                                 |
 |8            |[SQL](https://ayaazzam24.github.io/reading-notes/SQL)                                   |
 |9            |[callstack](https://ayaazzam24.github.io/reading-notes/callstack)                       |
-|10           |                                                                                        |
+|10           |[normaliztion](https://ayaazzam24.github.io/reading-notes/normaliztion)                 |
 |11           |                                                                                        | 
 |12           |                                                                                        |
 |13           |                                                                                        |
